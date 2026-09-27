@@ -31,7 +31,7 @@ while True:
     user_input = input("You: ")
 
     if user_input.lower().strip() in ["exit", "quit"]:
-        print("\nChefMate: Happy cooking! 👨‍🍳")
+        print("\nHackathon Assistant: Goodbye! 👋")
         break
 
     messages.append({
